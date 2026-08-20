@@ -11,7 +11,7 @@ My hands-on journey learning Cloud Engineering and DevOps.
 - Terraform
 - Ansible
 - Kubernetes
-- CI/CD
+- CI/CD   
 
 ## Labs
 
