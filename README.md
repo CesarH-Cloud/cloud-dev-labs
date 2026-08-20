@@ -5,7 +5,7 @@ My hands-on journey learning Cloud Engineering and DevOps.
 ## Technologies
 
 - Linux
-- Git & GitHub
+- Git & GitHub  
 - AWS
 - Docker
 - Terraform
